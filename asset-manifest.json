@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DFO-Web/static/css/main.dcbc7d75.css",
+    "main.js": "/DFO-Web/static/js/main.56b54137.js",
+    "index.html": "/DFO-Web/index.html",
+    "main.dcbc7d75.css.map": "/DFO-Web/static/css/main.dcbc7d75.css.map",
+    "main.56b54137.js.map": "/DFO-Web/static/js/main.56b54137.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dcbc7d75.css",
+    "static/js/main.56b54137.js"
+  ]
+}
