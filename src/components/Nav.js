@@ -7,7 +7,7 @@ const Nav = () => {
       <div className="mx-auto">
         <nav className="bg-gray-400 border-gray-200 dark:bg-gray-900">
           <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
-            <Link to="/DFO-WEB" className="flex items-center space-x-3 rtl:space-x-reverse">
+            <Link to="/DFO-Web" className="flex items-center space-x-3 rtl:space-x-reverse">
               <img
                 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-DewT2kX0DFJhWYhvneOECuXXp351LZrLaA&usqp=CAU"
                 className="h-8"

@@ -10,10 +10,10 @@ function App() {
   return (
     <>
       <Router>
-        <Routes basename="/DFO-WEB">
-          <Route exact path="/DFO-WEB" element={<LandingPage />} />
+        <Routes basename="/DFO-Web">
+          <Route exact path="/DFO-Web" element={<LandingPage />} />
           <Route exact path="/Admin" element={<Admin />} />
-          <Route exact path="/DFO-WEB/Home" element={<Home />} />
+          <Route exact path="/DFO-Web/Home" element={<Home />} />
           <Route path="/Block/:tehsilName" element={<Block />} />
           <Route
             path="/Database/:tehsilName/:blockName"
