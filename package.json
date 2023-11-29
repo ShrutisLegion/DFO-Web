@@ -1,7 +1,7 @@
 {
-  "name": "dfo-bot",
+  "name": "dfo-web",
   "version": "0.1.0",
-  "homepage": "https://Khaliq-786.github.io/DFO-Bot",
+  "homepage": "https://shrutislegion.github.io/DFO-Web/",
   "private": false,
   "dependencies": {
     "@supabase/auth-ui-react": "^0.4.6",
